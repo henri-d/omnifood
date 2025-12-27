@@ -36,7 +36,7 @@ Large: 1.8
 
 #888
 #767676 (lightest grey allowed on #fff)
-#6f6f6f (lightest grey allowed on ##fdf2e9)
+#6f6f6f (lightest grey allowed on #fdf2e9)
 #555
 #333
 
@@ -153,7 +153,7 @@ body {
 
 .subheading {
   display: block;
-  font-size: 2rem;
+  font-size: 1.6rem;
   font-weight: 500;
   color: #cf711f;
   text-transform: uppercase;
